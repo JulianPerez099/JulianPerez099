@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hola!+👋;+Soy+Julian+David+Gutiérrez+Pérez!;" />
 </h1>
 
-<h3 align="center">Un apasionad desarrollador de software de Colombia 🇨o</h3>
+<h3 align="center">Un apasionado desarrollador de software de Colombia 🇨o</h3>
 
 <br/>
 
@@ -28,7 +28,8 @@
   </a>
 </div>
 
- <hr/>
+  <hr/>
+  <hr/>
  
 <h2 align="center">⚒️ Lenguajes-Frameworks-Herramientas ⚒️</h2>
 <br/>
@@ -38,8 +39,8 @@
 </div>
 
 <br/>
-<hr/>
 
+<hr/>
 <hr/>
 
 <h2 align="center">⚡ Estadísticas ⚡</h2>
@@ -54,6 +55,7 @@
 <br/><br/>
 
 <hr/>
+<hr/>
 
 <br/>
 
@@ -62,3 +64,6 @@
 </div>
 
 <br/>
+
+<hr/>
+<hr/>
