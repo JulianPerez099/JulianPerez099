@@ -66,17 +66,33 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/julianperez099' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 <br/>
 
-# Repos Used
+<h3 align="center">Un apasionad desarrollador de software de Colombia 🇨o</h3>
 
-[Visitor Badge](https://github.com/hehuapei/visitor-badge)\
-[Typing SVG](https://github.com/DenverCoder1/readme-typing-svg)\
-[Shields.io Badges](https://github.com/alexandresanlim/Badges4-README.md-Profile)\
-[Skill Icons](https://github.com/tandpfun/skill-icons)\
-[Contributions Snake](https://github.com/Platane/snk)\
-[Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)\
-[Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+<div align="center"> 
+  <a href="https://github.com/hehuapei/visitor-badge">Visitor Badge
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank">Typing SVG
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile" target="_blank">Shields.io Badges
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome son otras buenas opciones de iconos -->
+  </a>
+  <a href="https://github.com/tandpfun/skill-icons" target="_blank">Skill Icons
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome son otras buenas opciones de iconos -->
+  </a>
+  <a href="https://github.com/Platane/snk" target="_blank">Contributions Snake
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome son otras buenas opciones de iconos -->
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">Streak Stats
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome son otras buenas opciones de iconos -->
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">Readme Stats
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome son otras buenas opciones de iconos -->
+  </a>
+</div>
