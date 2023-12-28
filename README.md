@@ -34,8 +34,8 @@
 <h2 align="center">⚒️ Lenguajes-Frameworks-Herramientas ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=androidstudio,astro,bootstrap,css,firebase,flutter,git,github,html" />
-    <img src="https://skillicons.dev/icons?i=java,javascript,mysql,netlify,nextjs,php,python,tailwind,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=androidstudio,astro,bootstrap,css,firebase,flutter,github,html" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,mysql,netlify,php,python,tailwind,vscode" /><br>
 </div>
 
 <br/>
