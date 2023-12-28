@@ -1,18 +1,18 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JulianPerez099.JulianPerez099" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola!+👋;+Soy+Julian+David+Gutiérrez+Pérez!;" />
 </h1>
 
-<h3 align="center">Una apasionada desarrolladora de software de Canadá 🇨🇦</h3>
+<h3 align="center">Un apasionad desarrollador de software de Colombia 🇨o</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 Actualmente estoy trabajando en **un mercado**
+ 🔭 Actualmente estoy trabajando en **App de videos y series**
  
- 🌱 Actualmente estoy aprendiendo **Docker, Supabase, AWS**
+ 🌱 Actualmente estoy aprendiendo **Flutter, dart, Firebase**
 
  </div>
  
