@@ -74,25 +74,31 @@
 <h3 align="center">Un apasionad desarrollador de software de Colombia 🇨o</h3>
 
 <div align="center"> 
-  <a href="https://github.com/hehuapei/visitor-badge">Visitor Badge
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+<a href="https://github.com/hehuapei/visitor-badge">Visitor Badge
+
   </a>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank">Typing SVG
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank">Typing SVG
+
   </a>
-  <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile" target="_blank">Shields.io Badges
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome son otras buenas opciones de iconos -->
+
+<a href="https://github.com/alexandresanlim/Badges4-README.md-Profile" target="_blank">Shields.io Badges
+
   </a>
-  <a href="https://github.com/tandpfun/skill-icons" target="_blank">Skill Icons
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome son otras buenas opciones de iconos -->
+
+<a href="https://github.com/tandpfun/skill-icons" target="_blank">Skill Icons
+
   </a>
-  <a href="https://github.com/Platane/snk" target="_blank">Contributions Snake
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome son otras buenas opciones de iconos -->
+
+<a href="https://github.com/Platane/snk" target="_blank">Contributions Snake
+
   </a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">Streak Stats
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome son otras buenas opciones de iconos -->
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">Streak Stats
+
   </a>
+  
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">Readme Stats
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome son otras buenas opciones de iconos -->
+     
   </a>
 </div>
