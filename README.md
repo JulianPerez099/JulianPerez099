@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JulianPerez099.JulianPerez099" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hola!+👋;+Soy+Julian+David+Gutiérrez+Pérez!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola!+👋;+Soy+Julian+David+Gutiérrez+Pérez!;" />
 </h1>
 
 <h3 align="center">Un apasionado desarrollador de software de Colombia 🇨o</h3>
