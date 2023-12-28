@@ -17,7 +17,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:jdgp7580@gmail.com">
+  <a href="mailto:jdgp7580@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/juliangp/" target="_blank">
@@ -74,31 +74,25 @@
 <h3 align="center">Un apasionad desarrollador de software de Colombia 🇨o</h3>
 
 <div align="center"> 
-<a href="https://github.com/hehuapei/visitor-badge">Visitor Badge
-
+<a href="https://github.com/hehuapei/visitor-badge" target="_blank">Visitor Badge
   </a>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank">Typing SVG
-
-  </a>
+</a>
 
 <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile" target="_blank">Shields.io Badges
-
-  </a>
+</a>
 
 <a href="https://github.com/tandpfun/skill-icons" target="_blank">Skill Icons
-
-  </a>
+</a>
 
 <a href="https://github.com/Platane/snk" target="_blank">Contributions Snake
-
-  </a>
+</a>
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">Streak Stats
+</a>
 
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">Readme Stats
-     
-  </a>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">Readme Stats  
+ </a>
+
 </div>
