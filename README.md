@@ -12,7 +12,7 @@
  
  🔭 Actualmente estoy trabajando en **App de videos y series**
  
- 🌱 Actualmente estoy aprendiendo **Flutter, dart, Firebase**
+ 🌱 Actualmente estoy aprendiendo **React Native, Firebase**
 
  </div>
  
@@ -35,7 +35,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=androidstudio,astro,bootstrap,css,firebase,flutter,github,html" />
-    <img src="https://skillicons.dev/icons?i=java,javascript,mysql,netlify,php,python,tailwind,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=java,javascript,mysql,netlify,php,python,tailwind,react,vscode" /><br>
 </div>
 
 <br/>
