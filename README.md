@@ -10,9 +10,7 @@
 
 <div align="center">
  
- 🔭 Actualmente estoy trabajando en **App de videos y series**
- 
- 🌱 Actualmente estoy aprendiendo **React Native, Firebase**
+ 🌱 Actualmente estoy aprendiendo **React, Astro**
 
  </div>
  
